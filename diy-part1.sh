@@ -19,7 +19,7 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2' >>feeds.conf.default
 echo 'src-git openclash https://github.com/vernesong/OpenClash' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+#echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #echo 'src-git appadguardhome https://github.com/Lienol/openwrt/tree/19.07/package/diy/luci-app-adguardhome' >>feeds.conf.default
 #echo 'src-git adguardhome https://github.com/Lienol/openwrt/tree/19.07/package/diy/adguardhome' >>feeds.conf.default
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
