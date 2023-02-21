@@ -27,7 +27,7 @@ echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 
 # theme feed source
-echo 'src-git themedarkmatter https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
+#echo 'src-git themedarkmatter https://github.com/apollo-ng/luci-theme-darkmatter' >>feeds.conf.default
 #echo 'src-git themeinfinityfreedom src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' >>feeds.conf.default
 #echo 'src-git argon https://github.com/jerrykuku/luci-theme-argon' >>feeds.conf.default
 #echo 'src-git argonconfig https://github.com/jerrykuku/luci-app-argon-config' >>feeds.conf.default
